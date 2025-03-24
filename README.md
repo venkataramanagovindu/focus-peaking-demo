@@ -66,6 +66,12 @@ chmod +x run.sh
 
 ---
 
+## Sample Output
+<img width="1470" alt="Screenshot 2025-03-23 at 9 13 06 PM" src="https://github.com/user-attachments/assets/6c2f4282-f002-4483-b1ba-2fa4d521a7d6" />
+<img width="1470" alt="Screenshot 2025-03-23 at 9 13 14 PM" src="https://github.com/user-attachments/assets/adff38ec-5845-4e13-af50-4c022cc136f9" />
+<img width="1470" alt="Screenshot 2025-03-23 at 9 13 19 PM" src="https://github.com/user-attachments/assets/d34bd522-7ce0-4616-a48b-b4a1a899134c" />
+<img width="1470" alt="Screenshot 2025-03-23 at 9 13 31 PM" src="https://github.com/user-attachments/assets/7663f525-44c5-4284-a1ca-550cea03249a" />
+
 ##  Special Notes
 -  **Ensure you have Node.js installed** before running the setup scripts.
 -  **The `public/assets/exploreHD-Focus.mp4` file** should be present for the video to load correctly.
