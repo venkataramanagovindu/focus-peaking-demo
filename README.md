@@ -30,8 +30,8 @@ The application leverages **HTML5 Canvas** for video frame processing, detecting
 ## Installation
 ### 1 Clone the Repository:
 ```sh
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/venkataramanagovindu/focus-peaking-demo.git
+cd focus-peaking-demo
 ```
 ### 2️ Run the Installation Script:
 ```sh
