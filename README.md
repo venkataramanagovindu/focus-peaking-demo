@@ -51,7 +51,7 @@ chmod +x run.sh
 ---
 
 ## Usage Guide
-1. **Upload a video** or use the provided sample video.
+1. **Video available in the project** Relace with other video if you'd like to (public/assets).
 2. **Click "Enable Focus Peaking"** to highlight focused areas.
 3. **Change highlight colors** using the color buttons.
 4. **Click "Disable Focus Peaking"** to turn off the effect.
